@@ -1,7 +1,11 @@
-####Integers
+#### Integers  
 
-####Strings
-####Booleans
-####Floats
-####Lists
-####Dictionaries
+#### Strings  
+
+#### Booleans  
+
+#### Floats  
+
+#### Lists  
+
+#### Dictionaries  
