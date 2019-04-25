@@ -1,6 +1,6 @@
 # PDX March of Science: Introduction to Python
 
-Class Agenda
+Class Agenda <br>
 3:00 - 3:15PM Introductions and Overview of Class
 3:15 - 3:30PM What is Python and Demos
 3:30 - 3:45PM Python Project Context
