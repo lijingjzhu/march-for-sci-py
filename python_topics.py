@@ -27,6 +27,7 @@ test_grades = {"Alice": 98, "Catherine": 84, "Ahmad":10}
 	# example of indexing: animals[1] = ['dog', 'cat', 'banana'] = 'cat'
 
 # For loops
+#We use double equals signs to test whether two variables are equal
 for animal in zoo:
 	# Conditionals
 	print ("Currently dealing with the animal: " + animal)
