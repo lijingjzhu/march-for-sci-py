@@ -1,17 +1,22 @@
-# Data Types/Data Structures
-'''
-Sam is working on this
-'''
+## Variable Assignment
+#In Python, you can use triple quotes, like above, or # pound signs to write comments: text that the computer doesn't
+#use to decide what it's going to do 
 
-# Variable Assignment
+#We can use = signs to assign variables. That means that we give them a name so that we can call them by name instead
+#of having to type them out again. 
+
 # Integer
 x = 1
+
 # Float
 y = 2.34
+
 # String
 name = "Sam"
+
 # List
-animals = ["dog","cat","banana"]
+zoo = ["dog","cat","banana"]
+
 # Dictionary
 test_grades = {"Alice": 98, "Catherine": 84, "Ahmad":10}
 
@@ -22,7 +27,7 @@ test_grades = {"Alice": 98, "Catherine": 84, "Ahmad":10}
 	# example of indexing: animals[1] = ['dog', 'cat', 'banana'] = 'cat'
 
 # For loops
-for animal in animals:
+for animal in zoo:
 	# Conditionals
 	print ("Currently dealing with the animal: " + animal)
 	if animal == "dog":
@@ -30,7 +35,7 @@ for animal in animals:
 	elif animal == "cat":
 		print ( "Cats are friendly and get a bad rap!" )
 	else:
-		print ( "Ummm......why is a banana in the animals list?" )
+		print ( "Ummm......why is a " +  animal + " in the zoo?" )
 
 # Functions
 def how_many_dogs_are_in_this_list(animal_list):
@@ -53,6 +58,3 @@ animal_list_3 = ["dog","","banana"]
 how_many_dogs_are_in_this_list(animal_list_1)
 how_many_dogs_are_in_this_list(animal_list_2)
 how_many_dogs_are_in_this_list(animal_list_3)
-
-# Packages
-# What packages to discuss?
