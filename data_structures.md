@@ -29,7 +29,7 @@ mylist = ['This', 'is', 'my', 'list', 23]
 You can call things back out of the list by using their position (the number they are in the list minus 1).   
 I'm using > to represent writing code in the interpreter: 
 ```
-> mylist = ['This', 'is', 'my', 'list', '23']
+> mylist = ['This', 'is', 'my', 'list', 23]
 > mylist[2]
   'my'
 ```
