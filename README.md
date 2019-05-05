@@ -3,6 +3,12 @@
 Welcome to Python! We hope that the materials and the content you find here
 will be helpful to you on your journey in coding. 
 
+#### Why Python?
+1. Python is simple - it looks like English! 
+2. Python is used by scientists of all kinds - for example, the recent famous picture of the black hole was created using Python. 
+3. Python is flexible: you can do pretty much whatever you want except for build phone apps with it. Once you start learning, there's 
+4. packages
+
 #### Instructors
 Your instructors are all data people at Cascade Data Labs, a local boutique data consulting firm. None of us have official degrees in computer science, which we like to think helps show that the barrier to entry for coding isn't as scary as you might think!
 
@@ -16,10 +22,9 @@ Drew is also a data analyst at Cascade Data Labs. He studied biomedical engineer
 Julie is a data scientist at Cascade Data Labs. She studied applied math in college and has a master's degree in statistics, and she really likes pie (she also believes in your ability to code). You can't contact Julie. 
 
 #### Class Agenda
-3:30 - 3:40PM Introductions and Overview of Class <br>
-3:40 - 3:50PM What is Python? <br>
-3:50 - 4:05PM Live Code / Demo <br>
-4:05 - 4:15PM Final Questions and Wrap-up <br>
+3:30 - 3:45PM Introductions, overview, and intro to Python (Sam) <br>
+3:45 - 4:05PM Live Code / Demo (Julie) <br>
+4:05 - 4:15PM Final Questions and Wrap-up (Drew) <br>
 
 #### The Online Python Interpreter
 We'll be using this online Python interpreter, so that you don't have to spend any class time downloading Python: <br>
