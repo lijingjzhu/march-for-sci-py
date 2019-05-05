@@ -13,6 +13,7 @@ y = 2.34
 
 # String
 name = "Sam"
+science = "JuLie$562 9183!!"
 
 # List
 zoo = ["dog","cat","banana"]
