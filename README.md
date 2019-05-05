@@ -7,7 +7,7 @@ will be helpful to you on your journey in coding.
 Your instructors are all data people at Cascade Data Labs, a local boutique data consulting firm. None of us have official degrees in computer science, which we like to think helps show that the barrier to entry for coding isn't as scary as you might think!
 
 ##### Sam Hoffman 
-Sam is a data analyst at Cascade Data Labs. She studied Statistics and Turkish in college and is very excited to spread code literacy! Hit her up on Twitter [@upwards_graph](https://twitter.com/upwards_graph)
+Sam is a data analyst at Cascade Data Labs. She studied Statistics and Turkish in college and is very excited to spread code literacy! Hit her up on Twitter [@upwards_graph](https://twitter.com/upwards_graph).
 
 ##### Drew Mahler
 Drew is also a data analyst at Cascade Data Labs. He studied biomedical engineering in college and believes anyone can learn to code! Email him with questions at andrew.h.mahler at gmail dot com. 
@@ -24,7 +24,7 @@ Julie is a data scientist at Cascade Data Labs. She studied applied math in coll
 #### The Online Python Interpreter
 We'll be using this online Python interpreter, so that you don't have to spend any class time downloading Python: <br>
 https://repl.it/languages/python3 <br>
-However, if you want to download Python after the class, there's a guide [here](https://wiki.python.org/moin/BeginnersGuide/Download)
+However, if you want to download Python after the class, there's a guide [here](https://wiki.python.org/moin/BeginnersGuide/Download).
 
 ### Additional Resources
 Data Types <br>
