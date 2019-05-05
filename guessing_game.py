@@ -2,8 +2,8 @@
 import random 
 
 # Parameters
-min_number = 1
-max_number = 10
+min_number = random.randint(-5, 1)
+max_number = random.randint(2, 78)
 
 # Pick the number to guess
 n = random.randint(min_number, max_number)
