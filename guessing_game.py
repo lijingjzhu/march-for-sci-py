@@ -8,13 +8,11 @@ n = random.randint(1, 99)
 print ("Try to guess the number I am thinking about...")
 guess = int(input("Enter an integer from 1 to 99: "))
 
-while n != "guess":
+while n != guess:
   if guess < n:
     print ("Looks like that number is low...")
     guess = int(input("Enter an integer from 1 to 99: "))
   elif guess > n:
     print ("Too high! Chill the number down!")
     guess = int(input("Enter an integer from 1 to 99: "))
-  else:
-    print ("Spot on! That was an optimal guess.")
-    break
+print ("Spot on! That was an optimal guess.")
