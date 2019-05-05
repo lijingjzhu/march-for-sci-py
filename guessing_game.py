@@ -15,4 +15,5 @@ while n != guess:
   elif guess > n:
     print ("Too high! Chill the number down!")
     guess = int(input("Enter an integer from 1 to 99: "))
+# Once the number is the same, we can quit out of the game
 print ("Spot on! That was an optimal guess.")
