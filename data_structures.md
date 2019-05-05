@@ -23,14 +23,14 @@ A list is an ordered collection of any data structure. In Python, lists can cont
 You create a list with brackets and commas, like this:  
 
 ```
-mylist = ['This', 'is', 'my', 'list', 23] 
+my_list = ['This', 'is', 'my', 'list', 23] 
 ```
 
 You can call things back out of the list by using their position (the number they are in the list minus 1).   
 I'm using > to represent writing code in the interpreter: 
 ```
-> mylist = ['This', 'is', 'my', 'list', 23]
-> mylist[2]
+> my_list = ['This', 'is', 'my', 'list', 23]
+> my_list[2]
   'my'
 ```
 
@@ -41,13 +41,13 @@ It's easiest to explain with an example.
 
 In Python, you make a dictionary with curly braces, colons, and commmas, like this:  
 ```
-mydictionary = {'Sam':8, 'Drew':7.5, 'Julie':9}
+my_dictionary = {'Sam':8, 'Drew':7.5, 'Julie':9}
 ```
 
 The thing before the colon is the key, and the thing after the colon is the value. Dictionaries can contain any mix of data types.  
 
 Dictionaries become useful when you get the value back out of them, using indexing:
 ```
-> mydictionary['Sam']  
+> my_dictionary['Sam']  
   8
 ```
