@@ -1,4 +1,4 @@
-## Variable Assignment
+# Variable Assignment
 # In Python, you can use triple quotes, like above, or # pound signs to write comments: text that the computer doesn't
 # use to decide what it's going to do 
 
