@@ -32,7 +32,34 @@ https://repl.it/languages/python3 <br>
 However, if you want to download Python after the class, there's a guide [here](https://wiki.python.org/moin/BeginnersGuide/Download).
 
 ### Additional Resources
-Data Types <br>
-Basic Data Structures <br>
-Variables <br>
-For Loops <br>
+
+#### Free Online Courses:
+https://www.codecademy.com/learn/learn-python
+Teaches foundational programming skills with Python 2.
+
+https://www.codecademy.com/learn/learn-the-command-line
+Teaches you to work with the command line (for Linux and Mac operating systems). This will help you feel comfortable writing and deploying code on your computer. 
+
+https://itsfoss.com/install-bash-on-windows/
+To get the Linux/Mac command line on Windows, install the program bash (AKA bourne-again shell).
+
+
+#### Reference Books
+https://nostarch.com/pythoncrashcourse
+
+https://automatetheboringstuff.com
+Free samples of the book on the website, and a lot of great projects within it.
+
+#### Projects
+https://github.com/karan/Projects
+The Numbers section has ideas for some fairly quick code to write.
+
+#### Practice
+https://www.practicepython.org
+
+#### Miscellaneous information
+https://softwareengineering.stackexchange.com/questions/313254/how-does-the-python-runtime-actually-work
+Great post explaining what happens when you run Python code. A lot of fancy terms, but pretty much all of them are on wikipedia!
+
+https://www.quora.com/How-exactly-does-a-computer-program-work-How-do-lines-of-text-tell-a-box-of-wires-to-do-anything-I-thought-computers-were-based-on-0s-and-1s-How-does-it-translate
+These are thorough answers to the question "What is code?!?!"
