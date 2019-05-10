@@ -34,32 +34,32 @@ However, if you want to download Python after the class, there's a guide [here](
 ### Additional Resources
 
 #### Free Online Courses:
-https://www.codecademy.com/learn/learn-python
+https://www.codecademy.com/learn/learn-python <br>
 Teaches foundational programming skills with Python 2.
 
-https://www.codecademy.com/learn/learn-the-command-line
+https://www.codecademy.com/learn/learn-the-command-line <br>
 Teaches you to work with the command line (for Linux and Mac operating systems). This will help you feel comfortable writing and deploying code on your computer. 
 
-https://itsfoss.com/install-bash-on-windows/
+https://itsfoss.com/install-bash-on-windows/ <br>
 To get the Linux/Mac command line on Windows, install the program bash (AKA bourne-again shell).
 
 
 #### Reference Books
-https://nostarch.com/pythoncrashcourse
+https://nostarch.com/pythoncrashcourse<br>
 
-https://automatetheboringstuff.com
+https://automatetheboringstuff.com<br>
 Free samples of the book on the website, and a lot of great projects within it.
 
 #### Projects
-https://github.com/karan/Projects
+https://github.com/karan/Projects<br>
 The Numbers section has ideas for some fairly quick code to write.
 
 #### Practice
-https://www.practicepython.org
+https://www.practicepython.org<br>
 
 #### Miscellaneous information
-https://softwareengineering.stackexchange.com/questions/313254/how-does-the-python-runtime-actually-work
+https://softwareengineering.stackexchange.com/questions/313254/how-does-the-python-runtime-actually-work <br>
 Great post explaining what happens when you run Python code. A lot of fancy terms, but pretty much all of them are on wikipedia!
 
-https://www.quora.com/How-exactly-does-a-computer-program-work-How-do-lines-of-text-tell-a-box-of-wires-to-do-anything-I-thought-computers-were-based-on-0s-and-1s-How-does-it-translate
+https://www.quora.com/How-exactly-does-a-computer-program-work-How-do-lines-of-text-tell-a-box-of-wires-to-do-anything-I-thought-computers-were-based-on-0s-and-1s-How-does-it-translate <br>
 These are thorough answers to the question "What is code?!?!"
