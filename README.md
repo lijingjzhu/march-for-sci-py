@@ -37,7 +37,7 @@ However, if you want to download Python after the class, there's a guide [here](
 https://www.codecademy.com/learn/learn-python <br>
 Teaches foundational programming skills with Python 2.
 
-https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html <br>
 Explains some of the key differences between Python 2 and Python 3.
 
 https://www.codecademy.com/learn/learn-the-command-line <br>
