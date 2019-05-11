@@ -6,8 +6,10 @@ will be helpful to you on your journey in coding.
 #### Why Python?
 1. Python is simple - it looks like English! 
 2. Python is used by scientists of all kinds - for example, the recent famous picture of the black hole was created using Python. 
-3. Python is flexible: you can do pretty much whatever you want except for build phone apps with it. Once you start learning, there's 
-4. packages
+3. Python is flexible: you can do pretty much whatever you want except for build phone apps with it. Once you start learning, there's (almost)
+no limit to where you can go!
+4. Python has a large and active userbase, which means that there's a lot of help online (Drew will talk more about this) and a lot of packages, 
+collections of pre-written code to help achieve various tasks. 
 
 #### Instructors
 Your instructors are all data people at Cascade Data Labs, a local boutique data consulting firm. None of us have official degrees in computer science, which we like to think helps show that the barrier to entry for coding isn't as scary as you might think!
