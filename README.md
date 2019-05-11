@@ -33,9 +33,12 @@ However, if you want to download Python after the class, there's a guide [here](
 
 ### Additional Resources
 
-#### Free Online Courses:
+#### Next Steps:
 https://www.codecademy.com/learn/learn-python <br>
 Teaches foundational programming skills with Python 2.
+
+https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
+Explains some of the key differences between Python 2 and Python 3.
 
 https://www.codecademy.com/learn/learn-the-command-line <br>
 Teaches you to work with the command line (for Linux and Mac operating systems). This will help you feel comfortable writing and deploying code on your computer. 
@@ -43,12 +46,25 @@ Teaches you to work with the command line (for Linux and Mac operating systems).
 https://itsfoss.com/install-bash-on-windows/ <br>
 To get the Linux/Mac command line on Windows, install the program bash (AKA bourne-again shell).
 
+https://www.shubhro.com/2014/05/29/development-environment/ <br>
+Explains how to get yourself setup to write and run code on your computer after finishing a codecademy course.
+
+https://www.davidbaumgold.com/tutorials/set-up-python-windows/ <br>
+Guide for Windows users interested in setting up Python on their computer.
+
+https://pip.pypa.io/en/stable/quickstart/ <br>
+Installing packages with pip. Comes with most Python versions.
+https://pypi.org <br>
+Python package Index - contains information for all packages that can be automatically installed with pip.
 
 #### Reference Books
 https://nostarch.com/pythoncrashcourse<br>
+Great project-based introduction to Python: create an alien-invasion game, data visualizations, and web applications. <br>
+https://ehmatthes.github.io/pcc/cheatsheets/README.html
+The book has an associated github repo with Python cheatsheets! <br>
 
 https://automatetheboringstuff.com<br>
-Free samples of the book on the website, and a lot of great projects within it.
+Free samples of the book on the website, and a lot of great content within them. Better for someone who is interested in implementing Python into their daily workflows. 
 
 #### Projects
 https://github.com/karan/Projects<br>
@@ -56,6 +72,7 @@ The Numbers section has ideas for some fairly quick code to write.
 
 #### Practice
 https://www.practicepython.org<br>
+A lot of practice problems for python! 
 
 #### Miscellaneous information
 https://softwareengineering.stackexchange.com/questions/313254/how-does-the-python-runtime-actually-work <br>
