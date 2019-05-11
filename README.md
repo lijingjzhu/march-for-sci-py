@@ -34,24 +34,29 @@ However, if you want to download Python after the class, there's a guide [here](
 ### Additional Resources
 
 #### Next Steps:
+
+##### Learn Python:
 https://www.codecademy.com/learn/learn-python <br>
 Teaches foundational programming skills with Python 2.
 
 https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html <br>
 Explains some of the key differences between Python 2 and Python 3.
 
+##### Learn to interact with your computer:
 https://www.codecademy.com/learn/learn-the-command-line <br>
 Teaches you to work with the command line (for Linux and Mac operating systems). This will help you feel comfortable writing and deploying code on your computer. 
 
 https://itsfoss.com/install-bash-on-windows/ <br>
 To get the Linux/Mac command line on Windows, install the program bash (AKA bourne-again shell).
 
+##### Set yourself up for success!
 https://www.shubhro.com/2014/05/29/development-environment/ <br>
 Explains how to get yourself setup to write and run code on your computer after finishing a codecademy course.
 
 https://www.davidbaumgold.com/tutorials/set-up-python-windows/ <br>
 Guide for Windows users interested in setting up Python on their computer.
 
+##### Get free software!
 https://pip.pypa.io/en/stable/quickstart/ <br>
 Installing packages with pip. Comes with most Python versions.
 https://pypi.org <br>
